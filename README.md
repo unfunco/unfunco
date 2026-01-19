@@ -6,10 +6,7 @@ engineer at Vitsœ and Tumelo.
 
 I live in [Mid Wales] with my orange cats, [David] and [Norman].
 
-I have a [personal website], the content doesn't wildly from this README.
-It _might_ contain some recent blog posts.
-
-You can also find me on [LinkedIn] and [YouTube].
+I have a [personal website], you can also find me on [LinkedIn] and [YouTube].
 
 [david]: https://unfun.co/david
 [linkedin]: https://www.linkedin.com/in/unfunco/
