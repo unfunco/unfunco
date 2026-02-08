@@ -1,5 +1,5 @@
 ---
-applyTo: README.md
+applyTo: "README.md"
 ---
 
 # README review instructions
