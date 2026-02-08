@@ -1,12 +1,13 @@
 # 👋 Ahoy! I'm Morris
 
 I'm a senior service delivery engineer at GitHub :octocat:.
-Previously, I consulted as a platform engineer at LEGO and technical design lead
-at British Airways, and was a software/platform at Vitsœ and Tumelo.
+Previously, I consulted as a platform engineer at LEGO, served as a technical
+design lead at British Airways, and worked as a software/platform engineer at
+Vitsœ and Tumelo.
 
 I live in [Mid Wales] with my orange cats, [David] and [Norman].
 
-I have a [website/blog], you can also find me on [LinkedIn] and [YouTube].
+I write at [website/blog], and you can also find me on [LinkedIn] and [YouTube].
 
 [david]: https://unfun.co/david
 [linkedin]: https://www.linkedin.com/in/unfunco/
