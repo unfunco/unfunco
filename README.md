@@ -2,9 +2,9 @@
 
 I'm a senior service delivery engineer at GitHub :octocat:
 
-Previously, I consulted as a platform engineer at LEGO, served as a technical
-design lead at British Airways, worked as a software engineer at Vitsœ, and
-later as a platform engineer at Tumelo.
+Before GitHub I was a platform engineer at Tumelo. I've also consulted
+for LEGO as a platform engineer and British Airways as a
+technical design lead, and worked as a software engineer at Vitsœ.
 
 I live in Mid Wales with my orange cats, [David] and [Norman].
 
