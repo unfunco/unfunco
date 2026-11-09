@@ -5,6 +5,7 @@ I'm a senior service delivery engineer at GitHub :octocat:
 Before GitHub I was a platform engineer at Tumelo. I've also consulted
 for LEGO as a platform engineer and British Airways as a
 technical design lead, and worked as a software engineer at Vitsœ.
+I mostly work with Go, Terraform, and Amazon Web Services.
 
 I live in Y Drenewydd with my orange cats, [David] and [Norman]. In my spare time
 I'm working on a labour of love: a 2.5D side-scroller set in octilinear
